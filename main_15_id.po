@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Gunakan semua parameter mesin"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Saya ingin mengucapkan terima kasih yang sebesar-besarnya kepada semua pemodel"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "yang karyanya telah saya sertakan dalam program ini."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Mengedit parameter"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Simpan parameter"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Pilih file .epf untuk menyimpan parameter mesin"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Parameter beban"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Pilih file .epf untuk memuat parameter mesin"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Tidak dapat membuka file penyimpanan parameter mesin"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Parameter mesin disimpan ke file"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Parameter mesin tidak disimpan"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Tidak dapat membuka file beban parameter mesin"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Parameter mesin dimuat dari file"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Parameter mesin dibaca dari file"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Parameter mesin tidak dimuat"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Parameter mesin tidak terbaca"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Fitur untuk memungkinkan pemuatan semua parameter mesin (versi 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Jika Anda menemukan bahwa delapan parameter khusus tidak cukup, maka Anda dapat memeriksa"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "kotak < Gunakan semua parameter > dan ketika Anda mengklik < Parameter mesin >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "Anda akan dapat mengatur semua parameter mesin ke nilai yang Anda inginkan."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "< Gunakan semua parameter > akan muncul di slot pertama parameter khusus."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Ini hanya akan diatur ke benar setelah Anda mengakses <Parameter mesin>"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "kotak dialog. Tidak dapat diatur secara manual."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Ini dapat dihapus dengan tombol <Reset>, atau dengan memuat mesin lain."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Jika Anda ingin menggunakan lebih dari delapan parameter kustom yang diizinkan untuk"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "di kotak dialog mesin, centang kotak < Edit parameter >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Kemudian kolom satu dari daftar akan berubah dari nomor opsi"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "ke nilai yang kemudian dapat Anda edit."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Awalnya, nilai-nilai ini ditetapkan ke default."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Setelah Anda selesai mengedit klik < Ok >"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Kotak dialog daftar parameter mesin akan ditutup, nilainya akan disimpan"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "dalam memori dan digunakan dengan mesin selama sesi saat ini."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Jika Anda ingin menyimpan nilai secara permanen ke dalam sebuah file,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "lalu klik yang kecil"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "kotak di samping < Simpan parameter >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Anda kemudian dapat menyimpan parameter dalam file <.epf>"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "yang dapat dimuat selanjutnya dengan opsi < Muat parameter >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "File <.epf> ini untuk menyimpan parameter mesin tidak sama"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "sebagai file <.epm> untuk menyimpan opsi di kotak dialog mesin,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "dan tidak dapat dipertukarkan."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Nilai pengguna"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Masukkan nilai pengguna"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Jika Anda menggunakan mesin Rodent 4, maka tombol tambahan < Personalities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "akan muncul. Tombol ini membuka kotak dialog yang memungkinkan Anda memilih kepribadian"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "untuk mesinnya. Untuk detail selengkapnya, klik < Game yang Dinilai > < Bantuan > < Hewan Pengerat >"
