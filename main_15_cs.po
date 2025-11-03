@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Použít všechny parametry motoru"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Chtěl bych všem modelářům moc poděkovat"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "jejichž dílo jsem do tohoto programu zařadil/a."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Upravit parametry"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Uložit parametry"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Vyberte soubor .epf pro uložení parametrů motoru"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Parametry zatížení"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Vyberte soubor .epf pro načtení parametrů motoru"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Nelze otevřít soubor s uloženými parametry motoru"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Parametry motoru uloženy do souboru"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Parametry motoru nebyly uloženy"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Nelze otevřít soubor s parametry enginu"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Parametry motoru načteny ze souboru"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Parametry enginu načtené ze souboru"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Parametry motoru nebyly načteny"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Parametry motoru se nenačetly"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Funkce umožňující načítání všech parametrů motoru (verze 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Pokud zjistíte, že osm vlastních parametrů nestačí, můžete zkontrolovat"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "pole < Použít všechny parametry > a po kliknutí na < Parametry enginu >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "budete moci nastavit všechny parametry motoru na požadované hodnoty."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "V prvním poli uživatelských parametrů se zobrazí < Použít všechny parametry >."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Na hodnotu true se nastaví až po přístupu k < parametrům enginu >"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "dialogové okno. Nelze jej nastavit ručně."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Lze jej vymazat tlačítkem < Reset > nebo načtením jiného enginu."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Pokud chcete použít více než osm vlastních parametrů povolených pro"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "V dialogovém okně enginu zaškrtněte políčko < Upravit parametry >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Pak se první sloupec seznamu změní od čísla možnosti"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "na hodnotu, kterou pak můžete upravit."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Zpočátku jsou tyto hodnoty nastaveny na výchozí hodnoty."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Po dokončení úprav klikněte na <OK>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Dialogové okno se seznamem parametrů motoru se zavře a hodnoty se uloží."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "v paměti a používá se s enginem během aktuální relace."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Pokud chcete hodnoty trvale ukládat do souboru,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "pak klikněte na malý"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "políčko vedle < Uložit parametry >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Parametry pak můžete uložit do souboru < .epf >."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "které lze následně načíst pomocí volby < Načíst parametry >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Tyto soubory < .epf > pro ukládání parametrů motoru nejsou stejné"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "jako soubory < .epm > pro ukládání voleb v dialogovém okně enginu,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "a nejsou zaměnitelné."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Hodnota pro uživatele"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Zadejte uživatelskou hodnotu"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Pokud používáte motor Rodent 4, pak je k dispozici další tlačítko <Osobnosti..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "se zobrazí. Toto tlačítko otevře dialogové okno, které vám umožní vybrat osobnost"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "pro engine. Pro více informací klikněte na < Hodnocená hra > < Nápověda > < Hlodavec >"
