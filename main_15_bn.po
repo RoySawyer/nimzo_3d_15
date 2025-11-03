@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "সমস্ত ইঞ্জিন প্যারামিটার ব্যবহার করুন"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "আমি সকল মডেলারদের অনেক ধন্যবাদ জানাতে চাই।"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "যার কাজ আমি এই প্রোগ্রামে অন্তর্ভুক্ত করেছি।"
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "প্যারামিটার সম্পাদনা করুন"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "প্যারামিটার সংরক্ষণ করুন"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "ইঞ্জিন প্যারামিটার সংরক্ষণ করতে .epf ফাইলটি নির্বাচন করুন।"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "লোড প্যারামিটার"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "ইঞ্জিন প্যারামিটার লোড করতে .epf ফাইলটি নির্বাচন করুন।"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "ইঞ্জিন প্যারামিটার সংরক্ষণ ফাইল খোলা যাচ্ছে না"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "ইঞ্জিন প্যারামিটার ফাইলে সংরক্ষিত হয়েছে"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "ইঞ্জিন প্যারামিটারগুলি সংরক্ষণ করা হয়নি"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "ইঞ্জিন প্যারামিটার লোড ফাইল খোলা যাচ্ছে না"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "ফাইল থেকে লোড করা ইঞ্জিন প্যারামিটার"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "ফাইল থেকে পঠিত ইঞ্জিন প্যারামিটার"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "ইঞ্জিন প্যারামিটার লোড করা হয়নি"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "ইঞ্জিনের প্যারামিটারগুলি পড়া হয়নি"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "সমস্ত ইঞ্জিন প্যারামিটার লোড করার জন্য একটি বৈশিষ্ট্য (সংস্করণ 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "যদি আপনি দেখেন যে আটটি কাস্টম প্যারামিটার যথেষ্ট নয়, তাহলে আপনি পরীক্ষা করতে পারেন"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "<সকল পরামিতি ব্যবহার করুন > বাক্সে ক্লিক করুন এবং যখন আপনি <ইঞ্জিন পরামিতি > এ ক্লিক করবেন"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "আপনি আপনার পছন্দসই মানগুলিতে সমস্ত ইঞ্জিন প্যারামিটার সেট করতে সক্ষম হবেন।"
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "< সকল পরামিতি ব্যবহার করুন > কাস্টম প্যারামিটারের প্রথম স্লটে প্রদর্শিত হবে।"
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "<Engine প্যারামিটার > অ্যাক্সেস করার পরেই এটি true তে সেট করা হবে।"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "ডায়ালগ বক্স। এটি ম্যানুয়ালি সেট করা যাবে না।"
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "এটি <রিসেট> বোতাম দিয়ে অথবা অন্য ইঞ্জিন লোড করে পরিষ্কার করা যেতে পারে।"
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "যদি আপনি আটটি কাস্টম প্যারামিটারের বেশি ব্যবহার করতে চান যার জন্য অনুমোদিত"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "ইঞ্জিন ডায়ালগ বক্সে, <Edit parameters > বক্সটি চেক করুন।"
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "তারপর তালিকার এক কলামটি বিকল্প নম্বর থেকে পরিবর্তিত হবে"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "এমন একটি মান যা আপনি সম্পাদনা করতে পারবেন।"
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "প্রাথমিকভাবে, এই মানগুলি ডিফল্টে সেট করা থাকে।"
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "সম্পাদনা শেষ হলে <ঠিক আছে> এ ক্লিক করুন।"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "ইঞ্জিন প্যারামিটার তালিকার ডায়ালগ বক্স বন্ধ হয়ে যাবে, মানগুলি সংরক্ষণ করা হবে।"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "মেমোরিতে এবং বর্তমান সেশনের সময় ইঞ্জিনের সাথে ব্যবহৃত।"
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "যদি আপনি মানগুলি স্থায়ীভাবে একটি ফাইলে সংরক্ষণ করতে চান,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "তারপর ছোটটিতে ক্লিক করুন"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<সেভ প্যারামিটার > এর পাশের বাক্স"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "এরপর আপনি প্যারামিটারগুলো একটি < .epf > ফাইলে সংরক্ষণ করতে পারবেন।"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "যা পরবর্তীতে <Lad parameters > বিকল্পের সাহায্যে লোড করা যেতে পারে।"
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "ইঞ্জিন প্যারামিটার সংরক্ষণের জন্য এই < .epf > ফাইলগুলি একই নয়"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "ইঞ্জিন ডায়ালগ বক্সে অপশন সংরক্ষণের জন্য < .epm > ফাইল হিসেবে,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "এবং আন্তঃপরিবর্তনশীল নয়।"
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "ব্যবহারকারীর মান"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "ব্যবহারকারীর মান ইনপুট করুন"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "যদি আপনি Rodent 4 ইঞ্জিন ব্যবহার করেন, তাহলে একটি অতিরিক্ত বোতাম <Personalities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "প্রদর্শিত হবে। এই বোতামটি একটি ডায়ালগ বক্স খুলবে যা আপনাকে একটি ব্যক্তিত্ব নির্বাচন করতে দেবে"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "ইঞ্জিনের জন্য। আরও তথ্যের জন্য, <রেটেড গেম > <হেল্প > <রডেন্ট > এ ক্লিক করুন"
