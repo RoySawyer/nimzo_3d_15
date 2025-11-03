@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Tüm motor parametrelerini kullan"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Tüm modelcilere büyük bir teşekkür sunmak istiyorum"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "Çalışmalarını bu programa dahil ettiğim."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Parametreleri düzenle"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Parametreleri kaydet"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Motor parametrelerini kaydetmek için .epf dosyasını seçin"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Yük parametreleri"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Motor parametrelerini yüklemek için .epf dosyasını seçin"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Motor parametresi kaydetme dosyası açılamıyor"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Motor parametreleri dosyaya kaydedildi"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Motor parametreleri kaydedilmedi"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Motor parametre yükleme dosyası açılamıyor"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Dosyadan yüklenen motor parametreleri"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Dosyadan okunan motor parametreleri"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Motor parametreleri yüklenmedi"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Motor parametreleri okunamadı"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Tüm motor parametrelerinin yüklenmesine olanak sağlayan bir özellik (sürüm 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Sekiz özel parametrenin yeterli olmadığını düşünüyorsanız, o zaman kontrol edebilirsiniz"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "< Tüm parametreleri kullan > kutusunu ve < Motor parametreleri > öğesini tıkladığınızda"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "Tüm motor parametrelerini istediğiniz değerlere ayarlayabileceksiniz."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "Özel parametrelerin ilk yuvasında < Tüm parametreleri kullan > seçeneği görünecektir."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "< Motor parametrelerine > eriştikten sonra yalnızca doğru olarak ayarlanacaktır"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "iletişim kutusu. Manuel olarak ayarlanamaz."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "< Sıfırla > butonu ile veya başka bir motor yükleyerek temizlenebilir."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "İzin verilen sekizden fazla özel parametreyi kullanmak istiyorsanız"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "Motor iletişim kutusunda, < Parametreleri düzenle > kutusunu işaretleyin."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Daha sonra listenin birinci sütunu seçenek numarasından değişecektir"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "daha sonra düzenleyebileceğiniz bir değere."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Başlangıçta bu değerler varsayılan değerlere ayarlanır."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Düzenlemeyi tamamladığınızda < Tamam >'a tıklayın"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Motor parametre listesi iletişim kutusu kapanacak, değerler kaydedilecektir"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "bellekte tutulur ve geçerli oturum sırasında motorla birlikte kullanılır."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Değerleri kalıcı olarak bir dosyaya kaydetmek istiyorsanız,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "sonra küçük olana tıklayın"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "< Parametreleri kaydet >'in yanındaki kutu"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Daha sonra parametreleri bir < .epf > dosyasına kaydedebilirsiniz"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "Daha sonra < Parametreleri yükle > seçeneği ile yüklenebilmektedir."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Motor parametrelerini depolamak için kullanılan bu < .epf > dosyaları aynı değildir"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "motor iletişim kutusundaki seçenekleri depolamak için < .epm > dosyaları olarak,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "ve birbirinin yerine kullanılamazlar."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Kullanıcı değeri"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Kullanıcı değerini girin"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Eğer Rodent 4 motoru kullanıyorsanız, o zaman ekstra bir buton < Kişilikler..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "görünecektir. Bu düğme, bir kişilik seçmenize olanak tanıyan bir iletişim kutusu açar"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "Motor için. Daha fazla bilgi için <Derecelendirilmiş oyun> <Yardım> <Kemirgen> öğelerine tıklayın."
