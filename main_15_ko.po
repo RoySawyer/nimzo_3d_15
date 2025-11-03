@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "모든 엔진 매개변수를 사용하세요"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "저는 모든 모델러들에게 큰 감사를 표하고 싶습니다."
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "이 프로그램에 제가 포함시킨 작업의 내용입니다."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "매개변수 편집"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "매개변수 저장"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "엔진 매개변수를 저장하려면 .epf 파일을 선택하세요."
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "부하 매개변수"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "엔진 매개변수를 로드하려면 .epf 파일을 선택하세요."
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "엔진 매개변수 저장 파일을 열 수 없습니다."
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "엔진 매개변수가 파일에 저장됨"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "엔진 매개변수가 저장되지 않았습니다."
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "엔진 매개변수 로드 파일을 열 수 없습니다."
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "파일에서 로드된 엔진 매개변수"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "파일에서 읽은 엔진 매개변수"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "엔진 매개변수가 로드되지 않았습니다."
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "엔진 매개변수를 읽을 수 없습니다"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "모든 엔진 매개변수를 로드할 수 있는 기능(버전 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "사용자 정의 매개변수 8개가 충분하지 않다고 생각되면 다음을 확인할 수 있습니다."
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "<모든 매개변수 사용> 상자와 <엔진 매개변수>를 클릭하면"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "모든 엔진 매개변수를 원하는 값으로 설정할 수 있습니다."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<모든 매개변수 사용>은 사용자 정의 매개변수의 첫 번째 슬롯에 나타납니다."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "<엔진 매개변수>에 액세스한 후에만 true로 설정됩니다."
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "대화 상자에서 설정할 수 없습니다. 수동으로 설정할 수 없습니다."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "<재설정> 버튼을 클릭하거나 다른 엔진을 로딩하면 지울 수 있습니다."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "허용된 8개 이상의 사용자 정의 매개변수를 사용하려는 경우"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "엔진 대화 상자에서 <매개변수 편집> 상자를 체크하세요."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "그러면 목록의 첫 번째 열이 옵션 번호에서 변경됩니다."
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "편집할 수 있는 값으로 설정합니다."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "처음에는 이러한 값이 기본값으로 설정됩니다."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "편집이 끝나면 <확인>을 클릭하세요."
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "엔진 매개변수 목록 대화 상자가 닫히고 값이 저장됩니다."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "메모리에 저장되어 현재 세션 동안 엔진과 함께 사용됩니다."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "값을 파일에 영구적으로 저장하려면"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "그런 다음 작은 것을 클릭하세요"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<매개변수 저장> 옆의 상자"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "그런 다음 매개변수를 <.epf> 파일에 저장할 수 있습니다."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "이후 <매개변수 로드> 옵션을 사용하여 로드할 수 있습니다."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "엔진 매개변수를 저장하기 위한 이 < .epf > 파일은 동일하지 않습니다."
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "엔진 대화 상자의 옵션을 저장하기 위한 < .epm > 파일로,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "그리고 상호 교환이 불가능합니다."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "사용자 가치"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "사용자 값 입력"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Rodent 4 엔진을 사용하는 경우, 추가 버튼 < 개성..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "나타납니다. 이 버튼을 누르면 개성을 선택할 수 있는 대화 상자가 열립니다."
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "엔진에 대한 자세한 내용은 <등급 게임> <도움말> <설치류>를 클릭하세요."
