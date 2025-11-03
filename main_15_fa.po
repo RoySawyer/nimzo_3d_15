@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "از تمام پارامترهای موتور استفاده کنید"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "می‌خواهم از همه مدل‌سازان تشکر ویژه داشته باشم"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "که آثارشان را در این برنامه گنجانده‌ام."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "ویرایش پارامترها"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "پارامترها را ذخیره کنید"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "برای ذخیره پارامترهای موتور، فایل .epf را انتخاب کنید"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "پارامترهای بار"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "فایل .epf را برای بارگذاری پارامترهای موتور انتخاب کنید"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "فایل ذخیره پارامتر موتور باز نمی‌شود"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "پارامترهای موتور در فایل ذخیره شدند"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "پارامترهای موتور ذخیره نشده اند"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "نمی‌توان فایل بارگذاری پارامتر موتور را باز کرد"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "پارامترهای موتور از فایل بارگذاری شده‌اند"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "پارامترهای موتور از فایل خوانده می‌شوند"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "پارامترهای موتور بارگذاری نشده است"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "پارامترهای موتور خوانده نمی‌شوند"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "قابلیتی برای بارگذاری تمام پارامترهای موتور (نسخه ۴.۰)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "اگر متوجه شدید که هشت پارامتر سفارشی کافی نیست، می‌توانید بررسی کنید"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "کادر <استفاده از همه پارامترها> را باز کنید و وقتی روی <پارامترهای موتور> کلیک می‌کنید"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "شما قادر خواهید بود تمام پارامترهای موتور را روی مقادیر دلخواه خود تنظیم کنید."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "عبارت <استفاده از همه پارامترها> در اولین جایگاه پارامترهای سفارشی ظاهر می‌شود."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "فقط پس از دسترسی به <پارامترهای موتور>، مقدار آن روی true تنظیم می‌شود."
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "کادر محاوره‌ای. نمی‌توان آن را به صورت دستی تنظیم کرد."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "می‌توان آن را با دکمه <Reset> یا با بارگذاری یک موتور دیگر پاک کرد."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "اگر می‌خواهید از بیش از هشت پارامتر سفارشی مجاز برای"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "در کادر محاوره‌ای موتور، کادر <ویرایش پارامترها> را علامت بزنید."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "سپس ستون یکی از لیست از شماره گزینه تغییر خواهد کرد"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "به مقداری که بتوانید آن را ویرایش کنید."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "در ابتدا، این مقادیر به صورت پیش‌فرض تنظیم می‌شوند."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "وقتی ویرایش را تمام کردید، روی <تایید> کلیک کنید."
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "کادر محاوره‌ای لیست پارامترهای موتور بسته خواهد شد، مقادیر ذخیره می‌شوند."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "در حافظه قرار دارد و در طول جلسه فعلی با موتور استفاده می‌شود."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "اگر می‌خواهید مقادیر را به طور دائم در یک فایل ذخیره کنید،"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "سپس روی کوچک کلیک کنید"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "کادر کنار <ذخیره پارامترها>"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "سپس می‌توانید پارامترها را در یک فایل <.epf> ذخیره کنید."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "که متعاقباً می‌توان آن را با گزینه <بارگذاری پارامترها> بارگذاری کرد."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "این فایل‌های <.epf> که برای ذخیره پارامترهای موتور استفاده می‌شوند، یکسان نیستند."
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "به عنوان فایل‌های <.epm> برای ذخیره گزینه‌ها در کادر محاوره‌ای موتور،"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "و قابل تغییر نیستند."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "ارزش کاربر"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "مقدار ورودی کاربر"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "اگر از موتور Rodent 4 استفاده می‌کنید، یک دکمه اضافی <شخصیت‌ها..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "ظاهر خواهد شد. این دکمه یک کادر محاوره‌ای باز می‌کند که به شما امکان می‌دهد یک شخصیت را انتخاب کنید."
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "برای موتور. برای جزئیات بیشتر، روی <بازی رتبه‌بندی‌شده> <راهنما> <جونده> کلیک کنید."
