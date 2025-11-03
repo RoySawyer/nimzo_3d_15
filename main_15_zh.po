@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "使用所有发动机参数"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "我衷心感谢所有模型制作者。"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "我已将他的作品收录到这个节目中。"
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "编辑参数"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "保存参数"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "选择 .epf 文件以保存发动机参数"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "负载参数"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "选择 .epf 文件以加载引擎参数"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "无法打开引擎参数保存文件"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "发动机参数已保存到文件"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "发动机参数未保存"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "无法打开引擎参数加载文件"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "从文件中加载引擎参数"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "从文件中读取发动机参数"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "引擎参数未加载"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "未读取发动机参数"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "允许加载所有引擎参数的功能（版本 4.0）"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "如果您发现八个自定义参数不够用，那么您可以检查"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "勾选“使用所有参数”框，然后点击“引擎参数”"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "您可以将所有发动机参数设置为您想要的值。"
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<使用所有参数> 将显示在自定义参数的第一个位置。"
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "只有在您访问过<引擎参数>之后，它才会被设置为 true。"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "对话框。无法手动设置。"
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "可以通过<重置>按钮清除，或者加载另一个引擎来清除。"
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "如果您想使用超过八个允许的自定义参数，"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "在引擎对话框中，选中“<编辑参数>”复选框。"
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "然后列表的第一列将从选项编号变为选项编号。"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "得到一个您可以编辑的值。"
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "初始状态下，这些值设置为默认值。"
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "编辑完成后，点击<确定>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "发动机参数列表对话框将关闭，数值将被保存。"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "存储在内存中，并在当前会话期间与引擎一起使用。"
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "如果你想将这些值永久保存到文件中，"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "然后点击小按钮"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<保存参数>旁边的方框"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "然后您可以将参数保存到 < .epf > 文件中"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "随后可以使用 < 加载参数 > 选项加载这些参数。"
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "这些用于存储发动机参数的 <.epf> 文件并不相同"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "作为用于存储引擎对话框中选项的 < .epm > 文件，"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "两者不可互换。"
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "用户价值"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "输入用户值"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "如果您使用的是 Rodent 4 引擎，则会看到一个额外的按钮 < Personalities...>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "将会显示。此按钮会打开一个对话框，您可以在其中选择个性。"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "引擎相关。更多详情，请点击<评级游戏><帮助><啮齿动物>"
