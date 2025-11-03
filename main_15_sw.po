@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Tumia vigezo vyote vya injini"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Ningependa kutoa shukrani nyingi kwa wanamitindo wote"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "ambaye kazi yake nimeijumuisha katika programu hii."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Badilisha vigezo"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Hifadhi vigezo"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Chagua faili ya .epf ili kuhifadhi vigezo vya injini"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Vigezo vya mzigo"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Chagua faili ya .epf ili kupakia vigezo vya injini"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Haiwezi kufungua kigezo cha injini kuhifadhi faili"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Vigezo vya injini vimehifadhiwa kwenye faili"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Vigezo vya injini hazijahifadhiwa"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Haiwezi kufungua faili ya upakiaji wa kigezo cha injini"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Vigezo vya injini vilivyopakiwa kutoka kwa faili"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Vigezo vya injini soma kutoka kwa faili"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Vigezo vya injini havijapakiwa"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Vigezo vya injini havijasomwa"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Kipengele cha kuruhusu upakiaji wa vigezo vyote vya injini (toleo la 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Ikiwa unaona kwamba vigezo nane vya desturi haitoshi, basi unaweza kuangalia"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "sanduku la < Tumia vigezo vyote > na unapobofya < Vigezo vya injini >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "utaweza kuweka vigezo vyote vya injini kwa maadili unayotaka."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<Tumia vigezo vyote > itaonekana katika nafasi ya kwanza ya vigezo maalum."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Itawekwa kuwa kweli baada ya kufikia < Vigezo vya injini >"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "sanduku la mazungumzo.  Haiwezi kuwekwa kwa mikono."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Inaweza kufutwa kwa kitufe cha <Rudisha >, au kwa kupakia injini nyingine."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Ikiwa unataka kutumia zaidi ya vigezo nane maalum vinavyoruhusiwa"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "kwenye kisanduku cha mazungumzo ya injini, angalia kisanduku cha <Hariri vigezo>."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Kisha safu wima moja ya orodha itabadilika kutoka nambari ya chaguo"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "kwa thamani ambayo unaweza kuhariri."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Hapo awali, maadili haya yamewekwa kwa msingi."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Ukimaliza kuhariri bonyeza < Ok >"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Sanduku la mazungumzo ya orodha ya parameta ya injini itafunga, maadili yatahifadhiwa"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "kwenye kumbukumbu na kutumika na injini wakati wa kikao cha sasa."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Ikiwa unataka kuhifadhi maadili kwa kudumu kwa faili,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "kisha bonyeza ndogo"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "kisanduku karibu na < Hifadhi vigezo >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Kisha unaweza kuhifadhi vigezo katika < .epf > faili"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "ambayo inaweza kupakiwa baadaye na chaguo la < Load parameters >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Faili hizi za < .epf > za kuhifadhi vigezo vya injini si sawa"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "kama faili za < .epm > za kuhifadhi chaguzi kwenye sanduku la mazungumzo ya injini,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "na hazibadiliki."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Thamani ya mtumiaji"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Ingiza thamani ya mtumiaji"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Ikiwa unatumia injini ya Rodent 4, basi kitufe cha ziada < Personalities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "itaonekana.  Kitufe hiki hufungua kisanduku cha mazungumzo ambacho hukuwezesha kuchagua mtu binafsi"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "kwa injini.  Kwa maelezo zaidi, bofya kwenye < Rated game > < Help > < Rodent >"
