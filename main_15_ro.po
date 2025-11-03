@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Folosește toți parametrii motorului"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Aș dori să transmit mulțumiri speciale tuturor modelatorilor."
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "a cărui muncă am inclus-o în acest program."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Editați parametrii"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Salvați parametrii"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Selectați fișierul .epf pentru a salva parametrii motorului"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Încărcați parametrii"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Selectați fișierul .epf pentru a încărca parametrii motorului"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Nu se poate deschide fișierul de salvare a parametrilor motorului"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Parametrii motorului salvați în fișier"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Parametrii motorului nu au fost salvați"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Nu se poate deschide fișierul de încărcare a parametrilor motorului"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Parametrii motorului încărcați din fișier"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Parametrii motorului citiți din fișier"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Parametrii motorului nu au fost încărcați"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Parametrii motorului nu au fost citiți"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "O funcție care permite încărcarea tuturor parametrilor motorului (versiunea 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Dacă constatați că opt parametri personalizați nu sunt suficienți, puteți verifica"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "caseta < Utilizați toți parametrii > și când faceți clic pe < Parametrii motorului >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "veți putea seta toți parametrii motorului la valorile dorite."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "„<Utilizați toți parametrii>” va apărea în primul slot de parametri personalizați."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Va fi setat la true doar după ce ați accesat <Parametrii motorului>"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "casetă de dialog. Nu poate fi setată manual."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Poate fi șters cu butonul <Resetare> sau prin încărcarea unui alt motor."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Dacă doriți să utilizați mai mult decât cei opt parametri personalizați permiși pentru"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "În caseta de dialog a motorului, bifați caseta < Editare parametri >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Apoi, prima coloană a listei se va schimba de la numărul opțiunii"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "la o valoare pe care o puteți edita apoi."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Inițial, aceste valori sunt setate la valorile implicite."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "După ce ați terminat de editat, faceți clic pe <Ok>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Caseta de dialog cu lista parametrilor motorului se va închide, valorile vor fi salvate"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "în memorie și utilizat cu motorul în timpul sesiunii curente."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Dacă doriți să stocați valorile permanent într-un fișier,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "apoi faceți clic pe micul"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "caseta de lângă < Salvare parametri >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Apoi puteți salva parametrii într-un fișier <.epf>"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "care pot fi încărcate ulterior cu opțiunea < Încărcare parametri >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Aceste fișiere < .epf > pentru stocarea parametrilor motorului nu sunt identice"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "ca fișiere < .epm > pentru stocarea opțiunilor în caseta de dialog a motorului,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "și nu sunt interschimbabile."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Valoarea utilizatorului"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Introduceți valoarea utilizatorului"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Dacă folosești un motor Rodent 4, atunci un buton suplimentar <Personalități..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "va apărea. Acest buton deschide o casetă de dialog care vă permite să selectați o personalitate"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "pentru motor. Pentru mai multe detalii, faceți clic pe < Joc evaluat > < Ajutor > < Rozătoare >"
