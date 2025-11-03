@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Використовувати всі параметри двигуна"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Хочу висловити величезну подяку всім моделям"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "чиї роботи я включив до цієї програми."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Редагувати параметри"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Зберегти параметри"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Виберіть файл .epf для збереження параметрів двигуна"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Параметри навантаження"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Виберіть файл .epf для завантаження параметрів двигуна"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Не вдається відкрити файл збереження параметрів двигуна"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Параметри двигуна збережені у файл"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Параметри двигуна не збережені"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Не вдається відкрити файл завантаження параметрів двигуна"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Параметри двигуна завантажені з файлу"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Параметри двигуна зчитуються з файлу"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Параметри двигуна не завантажено"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Параметри двигуна не зчитуються"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Функція, що дозволяє завантажувати всі параметри двигуна (версія 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Якщо ви вважаєте, що восьми користувацьких параметрів недостатньо, ви можете перевірити"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "поле < Використовувати всі параметри > та після натискання на < Параметри двигуна >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "ви зможете встановити всі параметри двигуна на потрібні вам значення."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "< Використовувати всі параметри > з’явиться в першому слоті користувацьких параметрів."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Значення «true» буде встановлено лише після доступу до < Параметри двигуна >"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "діалогове вікно. Його не можна налаштувати вручну."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Його можна очистити кнопкою <Скинути> або завантаживши інший двигун."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Якщо ви хочете використовувати більше восьми користувацьких параметрів, дозволених для"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "У діалоговому вікні механізму встановіть прапорець < Редагувати параметри >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Тоді перший стовпець списку зміниться з номера опції"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "до значення, яке потім можна редагувати."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Спочатку ці значення встановлені за замовчуванням."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Після завершення редагування натисніть <ОК>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Діалогове вікно зі списком параметрів двигуна закриється, значення будуть збережені"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "у пам'яті та використовується з двигуном протягом поточного сеансу."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Якщо ви хочете постійно зберігати значення у файлі,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "потім натисніть на маленький"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "поле поруч із пунктом < Зберегти параметри >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Потім ви можете зберегти параметри у файлі < .epf >."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "які згодом можна завантажити за допомогою опції < Завантажити параметри >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Ці файли < .epf > для зберігання параметрів двигуна не однакові"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "як файли < .epm > для зберігання параметрів у діалоговому вікні механізму,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "і не є взаємозамінними."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Цінність для користувача"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Введіть значення користувача"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Якщо ви використовуєте двигун Rodent 4, тоді додайте додаткову кнопку <Персоналізовані елементи...>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "з’явиться. Ця кнопка відкриває діалогове вікно, яке дозволяє вибрати профіль"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "для двигуна. Для отримання додаткової інформації натисніть на < Рейтингова гра > < Довідка > < Гризун >"
