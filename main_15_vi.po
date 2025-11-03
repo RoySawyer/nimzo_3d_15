@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Sử dụng tất cả các thông số động cơ"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Tôi muốn gửi lời cảm ơn chân thành đến tất cả các nhà tạo mẫu"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "mà tôi đã đưa tác phẩm của họ vào chương trình này."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Chỉnh sửa thông số"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Lưu các tham số"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Chọn tệp .epf để lưu các thông số động cơ"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Tải các thông số"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Chọn tệp .epf để tải các thông số của động cơ"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Không thể mở tệp lưu tham số động cơ"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Các thông số động cơ đã được lưu vào tệp"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Thông số động cơ không được lưu"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Không thể mở tệp tải tham số động cơ"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Các thông số động cơ được tải từ tệp"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Thông số động cơ được đọc từ tệp"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Thông số động cơ không được tải"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Không đọc được thông số động cơ"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Một tính năng cho phép tải tất cả các thông số của động cơ (phiên bản 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Nếu bạn thấy tám tham số tùy chỉnh là không đủ, thì bạn có thể kiểm tra"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "hộp < Sử dụng tất cả các tham số > và khi bạn nhấp vào < Tham số động cơ >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "bạn sẽ có thể thiết lập tất cả các thông số của động cơ theo giá trị bạn muốn."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<Sử dụng tất cả các tham số> sẽ xuất hiện ở ô đầu tiên của các tham số tùy chỉnh."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Nó sẽ chỉ được đặt thành đúng sau khi bạn đã truy cập vào < Tham số động cơ >"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "hộp thoại. Không thể thiết lập thủ công."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Có thể xóa bằng nút <Đặt lại> hoặc bằng cách tải một công cụ khác."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Nếu bạn muốn sử dụng nhiều hơn tám tham số tùy chỉnh được phép"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "trong hộp thoại công cụ, hãy đánh dấu vào ô <Chỉnh sửa tham số>."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Sau đó cột một của danh sách sẽ thay đổi từ số tùy chọn"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "thành một giá trị mà sau đó bạn có thể chỉnh sửa."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Ban đầu, các giá trị này được đặt theo mặc định."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Khi bạn đã hoàn tất việc chỉnh sửa, hãy nhấp vào < Ok >"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Hộp thoại danh sách tham số động cơ sẽ đóng lại, các giá trị sẽ được lưu"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "trong bộ nhớ và được sử dụng với công cụ trong phiên hiện tại."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Nếu bạn muốn lưu trữ các giá trị vĩnh viễn vào một tệp,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "sau đó nhấp vào nhỏ"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "hộp bên cạnh < Lưu tham số >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Sau đó, bạn có thể lưu các tham số trong tệp < .epf >"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "có thể được tải sau đó bằng tùy chọn <Tải tham số>."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Các tập tin < .epf > này để lưu trữ các tham số động cơ không giống nhau"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "như các tập tin < .epm > để lưu trữ các tùy chọn trong hộp thoại công cụ,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "và không thể thay thế cho nhau."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Giá trị người dùng"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Giá trị người dùng đầu vào"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Nếu bạn đang sử dụng động cơ Rodent 4, thì cần thêm một nút <Personities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "sẽ xuất hiện. Nút này mở một hộp thoại cho phép bạn chọn một tính cách"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "cho động cơ. Để biết thêm chi tiết, hãy nhấp vào < Trò chơi được xếp hạng > < Trợ giúp > < Gặm nhấm >"
