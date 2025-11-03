@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Utiliser tous les paramètres du moteur"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Je tiens à remercier chaleureusement tous les modélistes."
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "dont j'ai inclus le travail dans ce programme."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Modifier les paramètres"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Paramètres d'enregistrement"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Sélectionnez le fichier .epf pour enregistrer les paramètres du moteur"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Paramètres de chargement"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Sélectionnez le fichier .epf pour charger les paramètres du moteur"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Impossible d'ouvrir le fichier de sauvegarde des paramètres du moteur"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Paramètres du moteur enregistrés dans un fichier"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Paramètres du moteur non enregistrés"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Impossible d'ouvrir le fichier de chargement des paramètres du moteur"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Paramètres du moteur chargés à partir du fichier"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Paramètres du moteur lus à partir du fichier"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Paramètres du moteur non chargés"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Paramètres moteur non lus"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Une fonctionnalité permettant le chargement de tous les paramètres du moteur (version 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Si vous estimez que huit paramètres personnalisés ne suffisent pas, vous pouvez alors vérifier"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "la case < Utiliser tous les paramètres > et lorsque vous cliquez sur < Paramètres du moteur >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "Vous pourrez régler tous les paramètres du moteur selon vos souhaits."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "L'option « Utiliser tous les paramètres » apparaîtra dans le premier emplacement des paramètres personnalisés."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Cette valeur ne sera définie sur « vrai » qu'après que vous ayez accédé aux < Paramètres du moteur >"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "boîte de dialogue. Elle ne peut pas être configurée manuellement."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Ce problème peut être résolu à l'aide du bouton < Réinitialiser > ou en chargeant un autre moteur."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Si vous souhaitez utiliser plus de huit paramètres personnalisés autorisés pour"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "Dans la boîte de dialogue du moteur, cochez la case < Modifier les paramètres >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "La première colonne de la liste changera alors, passant du numéro d'option"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "à une valeur que vous pourrez ensuite modifier."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Initialement, ces valeurs sont définies par défaut."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Une fois la modification terminée, cliquez sur < OK >"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "La boîte de dialogue de la liste des paramètres du moteur se fermera et les valeurs seront enregistrées."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "en mémoire et utilisée avec le moteur pendant la session en cours."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Si vous souhaitez enregistrer les valeurs de manière permanente dans un fichier,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "puis cliquez sur le petit"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "case à côté de < Enregistrer les paramètres >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Vous pouvez ensuite enregistrer les paramètres dans un fichier < .epf >"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "qui peuvent ensuite être chargés avec l'option < Charger les paramètres >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Ces fichiers < .epf > servant à stocker les paramètres du moteur ne sont pas identiques."
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "comme les fichiers < .epm > pour stocker les options dans la boîte de dialogue du moteur,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "et ne sont pas interchangeables."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "valeur utilisateur"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "valeur utilisateur saisie"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Si vous utilisez un moteur Rodent 4, un bouton supplémentaire < Personnalités..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "Une fenêtre s'affichera. Ce bouton ouvre une boîte de dialogue qui vous permet de sélectionner une personnalité."
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "pour le moteur. Pour plus de détails, cliquez sur < Jeu classé > < Aide > < Rodent >"
