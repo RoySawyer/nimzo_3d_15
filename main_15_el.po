@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Χρησιμοποιήστε όλες τις παραμέτρους του κινητήρα"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Θα ήθελα να ευχαριστήσω θερμά όλους τους μοντελιστές"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "του οποίου το έργο έχω συμπεριλάβει σε αυτό το πρόγραμμα."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Επεξεργασία παραμέτρων"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Αποθήκευση παραμέτρων"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Επιλέξτε το αρχείο .epf για να αποθηκεύσετε τις παραμέτρους του μηχανισμού"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Φόρτωση παραμέτρων"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Επιλέξτε το αρχείο .epf για να φορτώσετε τις παραμέτρους του μηχανισμού"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου αποθήκευσης παραμέτρων μηχανής"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Οι παράμετροι του κινητήρα αποθηκεύτηκαν στο αρχείο"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Οι παράμετροι του κινητήρα δεν αποθηκεύτηκαν"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Δεν είναι δυνατό το άνοιγμα του αρχείου φόρτωσης παραμέτρων μηχανής"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Παράμετροι μηχανής που φορτώθηκαν από το αρχείο"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Παράμετροι μηχανής που διαβάζονται από αρχείο"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Οι παράμετροι του κινητήρα δεν έχουν φορτωθεί"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Οι παράμετροι του κινητήρα δεν διαβάζονται"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Μια λειτουργία που επιτρέπει τη φόρτωση όλων των παραμέτρων του κινητήρα (έκδοση 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Αν διαπιστώσετε ότι οκτώ προσαρμοσμένες παράμετροι δεν είναι αρκετές, τότε μπορείτε να ελέγξετε"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "το πλαίσιο < Χρήση όλων των παραμέτρων > και όταν κάνετε κλικ στο < Παράμετροι μηχανής >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "θα μπορείτε να ορίσετε όλες τις παραμέτρους του κινητήρα στις τιμές που θέλετε."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "Η επιλογή <Χρήση όλων των παραμέτρων> θα εμφανιστεί στην πρώτη θέση των προσαρμοσμένων παραμέτρων."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Θα οριστεί σε true μόνο αφού έχετε πρόσβαση στις <Παράμετροι μηχανής>"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "παράθυρο διαλόγου. Δεν μπορεί να οριστεί χειροκίνητα."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Μπορεί να διαγραφεί με το κουμπί < Επαναφορά > ή φορτώνοντας έναν άλλο κινητήρα."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Εάν θέλετε να χρησιμοποιήσετε περισσότερες από τις οκτώ προσαρμοσμένες παραμέτρους που επιτρέπονται για"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "Στο παράθυρο διαλόγου της μηχανής, επιλέξτε το πλαίσιο <Επεξεργασία παραμέτρων>."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Στη συνέχεια, η πρώτη στήλη της λίστας θα αλλάξει από τον αριθμό επιλογής"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "σε μια τιμή την οποία μπορείτε στη συνέχεια να επεξεργαστείτε."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Αρχικά, αυτές οι τιμές ορίζονται στις προεπιλεγμένες."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Όταν ολοκληρώσετε την επεξεργασία, κάντε κλικ στο <Ok>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Το παράθυρο διαλόγου της λίστας παραμέτρων του κινητήρα θα κλείσει και οι τιμές θα αποθηκευτούν."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "στη μνήμη και χρησιμοποιείται με τη μηχανή κατά την τρέχουσα συνεδρία."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Αν θέλετε να αποθηκεύσετε τις τιμές μόνιμα σε ένα αρχείο,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "στη συνέχεια κάντε κλικ στο μικρό"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "πλαίσιο δίπλα στην επιλογή < Αποθήκευση παραμέτρων >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Στη συνέχεια, μπορείτε να αποθηκεύσετε τις παραμέτρους σε ένα αρχείο <.epf>"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "η οποία μπορεί στη συνέχεια να φορτωθεί με την επιλογή < Φόρτωση παραμέτρων >."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Αυτά τα αρχεία <.epf> για την αποθήκευση παραμέτρων μηχανής δεν είναι τα ίδια"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "ως τα αρχεία <.epm > για την αποθήκευση των επιλογών στο παράθυρο διαλόγου της μηχανής,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "και δεν είναι εναλλάξιμα."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Αξία χρήστη"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Εισαγωγή τιμής χρήστη"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Αν χρησιμοποιείτε μηχανή Rodent 4, τότε ένα επιπλέον κουμπί <Προσωπικότητες..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "θα εμφανιστεί. Αυτό το κουμπί ανοίγει ένα παράθυρο διαλόγου που σας επιτρέπει να επιλέξετε μια προσωπικότητα"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "για τον κινητήρα. Για περισσότερες λεπτομέρειες, κάντε κλικ στο < Αξιολογημένο παιχνίδι > < Βοήθεια > < Τρωκτικό >"
