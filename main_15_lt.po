@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Naudokite visus variklio parametrus"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Norėčiau labai padėkoti visiems modeliuotojams"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "kurio darbus įtraukiau į šią programą."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Redaguoti parametrus"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Išsaugoti parametrus"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Pasirinkite .epf failą, kad išsaugotumėte variklio parametrus"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Įkėlimo parametrai"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Pasirinkite .epf failą, kad įkeltumėte variklio parametrus"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Nepavyksta atidaryti variklio parametrų išsaugojimo failo"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Variklio parametrai išsaugoti faile"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "Variklio parametrai neišsaugoti"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Nepavyksta atidaryti variklio parametrų įkėlimo failo"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Variklio parametrai įkelti iš failo"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Variklio parametrai nuskaitomi iš failo"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "Variklio parametrai neįkelti"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "Variklio parametrai neskaitomi"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Funkcija, leidžianti įkelti visus variklio parametrus (4.0 versija)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Jei manote, kad aštuonių pasirinktinių parametrų nepakanka, galite patikrinti"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "langelyje < Naudoti visus parametrus > ir spustelėjus < Variklio parametrai >"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "Galėsite nustatyti visus variklio parametrus į norimas vertes."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "< Naudoti visus parametrus > bus rodoma pirmajame pasirinktinių parametrų laukelyje."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Jis bus nustatytas į „true“ tik tada, kai pasieksite < variklio parametrus >."
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "dialogo langas. Jo negalima nustatyti rankiniu būdu."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Jį galima išvalyti paspaudus mygtuką <Atstatyti> arba įkėlus kitą variklį."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Jei norite naudoti daugiau nei aštuonis leidžiamus pasirinktinius parametrus"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "Variklio dialogo lange pažymėkite langelį < Redaguoti parametrus >."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Tada pirmame sąrašo stulpelyje pasikeis parinkties numeris"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "iki vertės, kurią vėliau galėsite redaguoti."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Iš pradžių šios vertės nustatomos pagal numatytuosius nustatymus."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Baigę redaguoti, spustelėkite <Gerai>"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "Variklio parametrų sąrašo dialogo langas užsidarys, reikšmės bus išsaugotos"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "atmintyje ir naudojamas su varikliu dabartinės sesijos metu."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Jei norite reikšmes visam laikui išsaugoti faile,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "tada spustelėkite mažąją"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "langelį šalia < Įrašyti parametrus >"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Tada galite išsaugoti parametrus faile <.epf>."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "kurį vėliau galima įkelti naudojant parinktį <Įkelti parametrus>."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Šie <.epf> failai, skirti variklio parametrams saugoti, nėra vienodi"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "kaip <.epm> failus, skirtus parinktims saugoti modulio dialogo lange,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "ir nėra tarpusavyje keičiami."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Vartotojo vertė"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Įveskite vartotojo reikšmę"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Jei naudojate „Rodent 4“ variklį, tuomet papildomas mygtukas < Asmenybės..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "pasirodys. Šis mygtukas atidaro dialogo langą, kuriame galite pasirinkti asmenybę"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "varikliui. Daugiau informacijos rasite spustelėję < Įvertintas žaidimas > < Pagalba > < Graužikas >"
