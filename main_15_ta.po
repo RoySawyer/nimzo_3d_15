@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "அனைத்து இயந்திர அளவுருக்களையும் பயன்படுத்தவும்"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "அனைத்து மாடலர்களுக்கும் நான் ஒரு பெரிய நன்றியைத் தெரிவித்துக் கொள்கிறேன்."
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "இந்த திட்டத்தில் நான் யாருடைய பணியைச் சேர்த்துள்ளேன்."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "அளவுருக்களைத் திருத்து"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "அளவுருக்களைச் சேமிக்கவும்"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "இயந்திர அளவுருக்களைச் சேமிக்க .epf கோப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "அளவுருக்களை ஏற்றவும்"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "இயந்திர அளவுருக்களை ஏற்ற .epf கோப்பைத் தேர்ந்தெடுக்கவும்."
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "என்ஜின் அளவுரு சேமி கோப்பைத் திறக்க முடியவில்லை."
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "எஞ்சின் அளவுருக்கள் கோப்பில் சேமிக்கப்பட்டன."
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "எஞ்சின் அளவுருக்கள் சேமிக்கப்படவில்லை."
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "எஞ்சின் அளவுரு ஏற்ற கோப்பைத் திறக்க முடியவில்லை."
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "கோப்பிலிருந்து என்ஜின் அளவுருக்கள் ஏற்றப்பட்டன."
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "கோப்பிலிருந்து படிக்கப்பட்ட எஞ்சின் அளவுருக்கள்"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "எஞ்சின் அளவுருக்கள் ஏற்றப்படவில்லை."
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "எஞ்சின் அளவுருக்கள் படிக்கப்படவில்லை"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "அனைத்து இயந்திர அளவுருக்களையும் ஏற்ற அனுமதிக்கும் ஒரு அம்சம் (பதிப்பு 4.0)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "எட்டு தனிப்பயன் அளவுருக்கள் போதாது என்று நீங்கள் கண்டால், நீங்கள் சரிபார்க்கலாம்"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "<அனைத்து அளவுருக்களையும் பயன்படுத்தவும் > பெட்டி மற்றும் நீங்கள் <Engine parameters > என்பதைக் கிளிக் செய்யும் போது"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "நீங்கள் விரும்பும் மதிப்புகளுக்கு அனைத்து இயந்திர அளவுருக்களையும் அமைக்க முடியும்."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<அனைத்து அளவுருக்களையும் பயன்படுத்தவும் > தனிப்பயன் அளவுருக்களின் முதல் ஸ்லாட்டில் தோன்றும்."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "நீங்கள் <Engine parameters > ஐ அணுகிய பின்னரே அது உண்மை என அமைக்கப்படும்."
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "உரையாடல் பெட்டி. இதை கைமுறையாக அமைக்க முடியாது."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "மீட்டமை > பொத்தானைப் பயன்படுத்தியோ அல்லது வேறு எஞ்சினை ஏற்றுவதன் மூலமோ இதை அழிக்க முடியும்."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "அனுமதிக்கப்பட்ட எட்டு தனிப்பயன் அளவுருக்களுக்கு மேல் பயன்படுத்த விரும்பினால்"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "என்ஜின் உரையாடல் பெட்டியில், Edit parameters > பெட்டியைத் தேர்ந்தெடுக்கவும்."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "பின்னர் பட்டியலில் உள்ள ஒரு நெடுவரிசை விருப்ப எண்ணிலிருந்து மாறும்."
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "நீங்கள் திருத்தக்கூடிய ஒரு மதிப்புக்கு."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "ஆரம்பத்தில், இந்த மதிப்புகள் முன்னிருப்பாக அமைக்கப்படும்."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "நீங்கள் திருத்துதல் முடிந்ததும் சரி > என்பதைக் கிளிக் செய்யவும்."
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "இயந்திர அளவுரு பட்டியல் உரையாடல் பெட்டி மூடப்படும், மதிப்புகள் சேமிக்கப்படும்."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "நினைவகத்தில் மற்றும் தற்போதைய அமர்வின் போது இயந்திரத்துடன் பயன்படுத்தப்படுகிறது."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "மதிப்புகளை ஒரு கோப்பில் நிரந்தரமாக சேமிக்க விரும்பினால்,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "பின்னர் சிறியதைக் கிளிக் செய்யவும்"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<Save parameters > க்கு அடுத்துள்ள பெட்டி"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "பின்னர் நீங்கள் அளவுருக்களை < .epf > கோப்பில் சேமிக்கலாம்."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "பின்னர் அதை <Load parameters > விருப்பத்துடன் ஏற்றலாம்."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "இயந்திர அளவுருக்களை சேமிப்பதற்கான இந்த < .epf > கோப்புகள் ஒரே மாதிரியானவை அல்ல."
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "எஞ்சின் உரையாடல் பெட்டியில் விருப்பங்களை சேமிப்பதற்கான < .epm > கோப்புகளாக,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "மற்றும் ஒன்றோடொன்று மாறக்கூடியவை அல்ல."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "பயனர் மதிப்பு"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "பயனர் மதிப்பை உள்ளிடவும்"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "நீங்கள் ஒரு ரோடன்ட் 4 எஞ்சினைப் பயன்படுத்துகிறீர்கள் என்றால், கூடுதல் பொத்தான்> ஆளுமைகள்>..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "தோன்றும். இந்தப் பொத்தான் ஒரு உரையாடல் பெட்டியைத் திறக்கும், இது ஒரு ஆளுமையைத் தேர்ந்தெடுக்க உங்களை அனுமதிக்கிறது."
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "எஞ்சினுக்கு. மேலும் விவரங்களுக்கு, மதிப்பிடப்பட்ட விளையாட்டு > உதவி > கொறித்துண்ணி > என்பதைக் கிளிக் செய்யவும்."
