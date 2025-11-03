@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "Használja az összes motorparamétert"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "Szeretnék hatalmas köszönetet mondani minden modellezőnek"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "akiknek a munkáit beépítettem ebbe a programba."
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "Paraméterek szerkesztése"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "Paraméterek mentése"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "Válassza ki az .epf fájlt a motorparaméterek mentéséhez"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "Paraméterek betöltése"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "Válassza ki az .epf fájlt a motorparaméterek betöltéséhez"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "Nem lehet megnyitni a motorparaméterek mentési fájlját"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "Motorparaméterek mentve fájlba"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "A motor paraméterei nincsenek mentve"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "Nem lehet megnyitni a motorparaméter-betöltési fájlt"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "Motorparaméterek betöltése fájlból"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "Motorparaméterek beolvasása fájlból"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "A motor paraméterei nincsenek betöltve"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "A motor paraméterei nem olvashatók"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "Egy funkció, amely lehetővé teszi az összes motorparaméter betöltését (4.0 verzió)"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "Ha úgy találod, hogy nyolc egyéni paraméter nem elég, akkor ellenőrizheted"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "a < Minden paraméter használata > mezőben, és amikor a < Motorparaméterek > lehetőségre kattint"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "Az összes motorparamétert a kívánt értékre állíthatja be."
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "Az < Összes paraméter használata > felirat az egyéni paraméterek első mezőjében jelenik meg."
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "Csak azután lesz igaz értékre állítva, hogy hozzáfértél a < Motor paraméterei > paraméterhez."
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "párbeszédpanel. Manuálisan nem állítható be."
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "Törölhető a <Reset> gombbal, vagy egy másik motor betöltésével."
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "Ha a megengedett nyolc egyéni paraméternél többet szeretne használni"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "a motor párbeszédpanelén jelölje be a < Paraméterek szerkesztése > négyzetet."
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "Ekkor a lista első oszlopának száma megváltozik a lehetőségről."
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "egy olyan értékre, amelyet aztán szerkeszthet."
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "Kezdetben ezek az értékek az alapértelmezett értékekre vannak állítva."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "Ha befejezte a szerkesztést, kattintson az <OK> gombra."
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "A motorparaméterek listáját tartalmazó párbeszédpanel bezárul, az értékek mentésre kerülnek."
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "a memóriában, és az aktuális munkamenet során a motorral együtt használatos."
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "Ha az értékeket véglegesen, fájlba szeretnéd menteni,"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "majd kattintson a kis"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "a < Paraméterek mentése > melletti mezőben"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "Ezután elmentheti a paramétereket egy < .epf > fájlba."
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "amely később a < Paraméterek betöltése > opcióval tölthető be."
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "Ezek a motorparaméterek tárolására szolgáló < .epf > fájlok nem ugyanazok."
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "a motor párbeszédpaneljén található beállítások tárolására szolgáló < .epm > fájlokként,"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "és nem felcserélhetők egymással."
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "Felhasználói érték"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "Felhasználói érték megadása"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Ha Rodent 4 motort használ, akkor egy extra gomb < Személyiségek..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "megjelenik. Ez a gomb megnyit egy párbeszédpanelt, amelyen kiválaszthatja a kívánt nyelvet."
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "a motorhoz. További részletekért kattintson a < Besorolt ​​játék > < Súgó > < Rágcsáló > menüpontra."
