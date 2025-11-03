@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "すべてのエンジンパラメータを使用する"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "すべてのモデラーに心から感謝します"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "その作品をこのプログラムに収録しました。"
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "パラメータを編集する"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "パラメータを保存"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "エンジンパラメータを保存するには.epfファイルを選択"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "負荷パラメータ"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "エンジンパラメータをロードするには.epfファイルを選択してください"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "エンジンパラメータ保存ファイルを開けません"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "エンジンパラメータがファイルに保存されました"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "エンジンパラメータが保存されていません"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "エンジンパラメータロードファイルを開けません"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "ファイルから読み込まれたエンジンパラメータ"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "ファイルから読み取ったエンジンパラメータ"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "エンジンパラメータが読み込まれていません"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "エンジンパラメータが読み取れません"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "すべてのエンジンパラメータの読み込みを可能にする機能（バージョン4.0）"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "8つのカスタムパラメータでは足りない場合は、"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "<すべてのパラメータを使用>ボックスを選択し、<エンジンパラメータ>をクリックすると"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "すべてのエンジンパラメータを必要な値に設定できるようになります。"
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "<すべてのパラメータを使用する>は、カスタム パラメータの最初のスロットに表示されます。"
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "<エンジンパラメータ>にアクセスした後にのみtrueに設定されます。"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "ダイアログボックス。手動で設定することはできません。"
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "< リセット > ボタンを使用するか、別のエンジンをロードすることでクリアできます。"
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "8つ以上のカスタムパラメータを使用する場合は、"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "エンジン ダイアログ ボックスで、< パラメータの編集 > ボックスをオンにします。"
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "次にリストの1列目がオプション番号から変更されます"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "その後編集できる値に設定します。"
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "最初は、これらの値はデフォルトに設定されています。"
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "編集が完了したら、< OK > をクリックします。"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "エンジンパラメータリストダイアログボックスが閉じられ、値が保存されます。"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "メモリに保存され、現在のセッション中にエンジンで使用されます。"
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "値をファイルに永続的に保存したい場合は、"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "小さな"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<パラメータを保存>の横にあるボックス"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "その後、パラメータを<.epf>ファイルに保存できます。"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "その後、< Load parameters > オプションを使用して読み込むことができます。"
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "エンジンパラメータを保存するためのこれらの<.epf>ファイルは、同じではありません。"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "エンジンダイアログボックスのオプションを保存するための<.epm>ファイルとして、"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "互換性はありません。"
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "ユーザー価値"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "ユーザー値を入力"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "Rodent 4 エンジンを使用している場合は、追加のボタン < Personalities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "が表示されます。このボタンをクリックすると、パーソナリティを選択できるダイアログボックスが開きます。"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "エンジン用。詳細については、< レーティングゲーム > < ヘルプ > < Rodent > をクリックしてください。"
