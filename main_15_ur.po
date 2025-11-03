@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-03 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_15.cpp:2
+msgid "Use all engine parameters"
+msgstr "انجن کے تمام پیرامیٹرز استعمال کریں۔"
+
+#: main_15.cpp:4
+msgid "I would like to offer a big thank you to all of the modellers"
+msgstr "میں تمام ماڈلرز کا بہت بہت شکریہ ادا کرنا چاہوں گا۔"
+
+#: main_15.cpp:6
+msgid "whose work I have included in this program."
+msgstr "جن کا کام میں نے اس پروگرام میں شامل کیا ہے۔"
+
+#: main_15.cpp:8
+msgid "Edit parameters"
+msgstr "پیرامیٹرز میں ترمیم کریں۔"
+
+#: main_15.cpp:10
+msgid "Save parameters"
+msgstr "پیرامیٹرز کو محفوظ کریں۔"
+
+#: main_15.cpp:12
+msgid "Select .epf file to save engine parameters"
+msgstr "انجن کے پیرامیٹرز کو محفوظ کرنے کے لیے .epf فائل کو منتخب کریں۔"
+
+#: main_15.cpp:14
+msgid "Load parameters"
+msgstr "پیرامیٹرز لوڈ کریں۔"
+
+#: main_15.cpp:16
+msgid "Select .epf file to load engine parameters"
+msgstr "انجن کے پیرامیٹرز کو لوڈ کرنے کے لیے .epf فائل کو منتخب کریں۔"
+
+#: main_15.cpp:18
+msgid "Cannot open engine parameter save file"
+msgstr "انجن پیرامیٹر محفوظ فائل نہیں کھول سکتا"
+
+#: main_15.cpp:20
+msgid "Engine parameters saved to file"
+msgstr "انجن کے پیرامیٹرز فائل میں محفوظ ہو گئے۔"
+
+#: main_15.cpp:22
+msgid "Engine parameters not saved"
+msgstr "انجن کے پیرامیٹرز محفوظ نہیں ہوئے۔"
+
+#: main_15.cpp:24
+msgid "Cannot open engine parameter load file"
+msgstr "انجن پیرامیٹر لوڈ فائل نہیں کھول سکتا"
+
+#: main_15.cpp:26
+msgid "Engine parameters loaded from file"
+msgstr "انجن کے پیرامیٹرز فائل سے بھرے ہوئے ہیں۔"
+
+#: main_15.cpp:27
+msgid "Engine parameters read from file"
+msgstr "انجن کے پیرامیٹرز فائل سے پڑھے جاتے ہیں۔"
+
+#: main_15.cpp:29
+msgid "Engine parameters not loaded"
+msgstr "انجن کے پیرامیٹرز لوڈ نہیں ہوئے ہیں۔"
+
+#: main_15.cpp:30
+msgid "Engine parameters not read"
+msgstr "انجن کے پیرامیٹرز نہیں پڑھے گئے ہیں۔"
+
+#: main_15.cpp:32
+msgid "A feature to allow for loading of all engine parameters (version 4.0)"
+msgstr "انجن کے تمام پیرامیٹرز (ورژن 4.0) کو لوڈ کرنے کی اجازت دینے والی خصوصیت"
+
+#: main_15.cpp:34
+msgid "If you find that eight custom parameters is not enough, then you can check"
+msgstr "اگر آپ کو معلوم ہوتا ہے کہ آٹھ حسب ضرورت پیرامیٹرز کافی نہیں ہیں، تو آپ چیک کر سکتے ہیں۔"
+
+#: main_15.cpp:36
+msgid "the < Use all parameters > box and when you click on < Engine parameters >"
+msgstr "< تمام پیرامیٹرز کا استعمال کریں > باکس اور جب آپ < انجن پیرامیٹرز > پر کلک کرتے ہیں۔"
+
+#: main_15.cpp:38
+msgid "you will be able to set all engine parameters to the values that you want."
+msgstr "آپ انجن کے تمام پیرامیٹرز کو اپنی مطلوبہ اقدار پر سیٹ کر سکیں گے۔"
+
+#: main_15.cpp:40
+msgid "< Use all parameters > will appear in the first slot of custom parameters."
+msgstr "< تمام پیرامیٹرز کا استعمال کریں > اپنی مرضی کے پیرامیٹرز کے پہلے سلاٹ میں ظاہر ہوگا۔"
+
+#: main_15.cpp:42
+msgid "It will only be set to true after you have accessed the < Engine parameters >"
+msgstr "یہ صرف درست پر سیٹ کیا جائے گا جب آپ < انجن پیرامیٹرز > تک رسائی حاصل کر لیں گے۔"
+
+#: main_15.cpp:44
+msgid "dialog box.  It cannot be set manually."
+msgstr "ڈائیلاگ باکس.  اسے دستی طور پر سیٹ نہیں کیا جا سکتا۔"
+
+#: main_15.cpp:46
+msgid "It can be cleared with the < Reset > button, or by loading another engine."
+msgstr "اسے <ری سیٹ> بٹن سے، یا دوسرا انجن لوڈ کرکے صاف کیا جاسکتا ہے۔"
+
+#: main_15.cpp:48
+msgid "If you want to use more than the eight custom parameters allowed for"
+msgstr "اگر آپ آٹھ حسب ضرورت پیرامیٹرز سے زیادہ استعمال کرنا چاہتے ہیں جن کی اجازت ہے۔"
+
+#: main_15.cpp:50
+msgid "in the engine dialog box, check the < Edit parameters > box."
+msgstr "انجن ڈائیلاگ باکس میں، <پیرامیٹر میں ترمیم کریں> باکس کو چیک کریں۔"
+
+#: main_15.cpp:52
+msgid "Then column one of the list will change from the option number"
+msgstr "پھر فہرست میں سے ایک کالم آپشن نمبر سے بدل جائے گا۔"
+
+#: main_15.cpp:54
+msgid "to a value that you can then edit."
+msgstr "اس قدر کے لیے جس میں آپ ترمیم کر سکتے ہیں۔"
+
+#: main_15.cpp:56
+msgid "Initially, these values are set to the default."
+msgstr "ابتدائی طور پر، یہ اقدار ڈیفالٹ پر سیٹ ہیں."
+
+#: main_15.cpp:58
+msgid "When you have finished editing click < Ok >"
+msgstr "جب آپ ترمیم مکمل کر لیں تو <Ok> پر کلک کریں۔"
+
+#: main_15.cpp:60
+msgid "The engine parameter list dialog box will close, the values will be saved"
+msgstr "انجن پیرامیٹر لسٹ ڈائیلاگ باکس بند ہو جائے گا، قدریں محفوظ ہو جائیں گی۔"
+
+#: main_15.cpp:62
+msgid "in memory and used with the engine during the current session."
+msgstr "میموری میں اور موجودہ سیشن کے دوران انجن کے ساتھ استعمال کیا جاتا ہے۔"
+
+#: main_15.cpp:64
+msgid "If you want to store the values permanenetly to a file,"
+msgstr "اگر آپ اقدار کو کسی فائل میں مستقل طور پر ذخیرہ کرنا چاہتے ہیں،"
+
+#: main_15.cpp:66
+msgid "then click on the small"
+msgstr "پھر چھوٹے پر کلک کریں"
+
+#: main_15.cpp:68
+msgid "box next to < Save parameters >"
+msgstr "<پیرامیٹر محفوظ کریں> کے آگے باکس"
+
+#: main_15.cpp:70
+msgid "You can then save the parameters in a < .epf > file"
+msgstr "پھر آپ پیرامیٹرز کو < .epf > فائل میں محفوظ کر سکتے ہیں۔"
+
+#: main_15.cpp:72
+msgid "which can be subsequently loaded with the < Load parameters > option."
+msgstr "جسے بعد میں <لوڈ پیرامیٹرز> اختیار کے ساتھ لوڈ کیا جاسکتا ہے۔"
+
+#: main_15.cpp:74
+msgid "These < .epf > files for storing engine parameters are not the same"
+msgstr "انجن کے پیرامیٹرز کو ذخیرہ کرنے کے لیے یہ < .epf > فائلیں ایک جیسی نہیں ہیں۔"
+
+#: main_15.cpp:76
+msgid "as the < .epm > files for storing the options in the engine dialog box,"
+msgstr "انجن ڈائیلاگ باکس میں اختیارات کو ذخیرہ کرنے کے لیے <.epm> فائلوں کے طور پر،"
+
+#: main_15.cpp:78
+msgid "and are not inter changeable."
+msgstr "اور ایک دوسرے سے تبدیل نہیں ہوتے۔"
+
+#: main_15.cpp:80
+msgid "User value"
+msgstr "صارف کی قدر"
+
+#: main_15.cpp:80
+msgid "Input user value"
+msgstr "صارف کی قیمت درج کریں۔"
+
+#: main_15.cpp:82
+msgid "If you are using a Rodent 4 engine, then an extra button < Personalities..>"
+msgstr "اگر آپ Rodent 4 انجن استعمال کر رہے ہیں، تو ایک اضافی بٹن < Personalities..>"
+
+#: main_15.cpp:84
+msgid "will appear.  This button opens a dialog box which lets you select a personality"
+msgstr "ظاہر ہو جائے گا.  یہ بٹن ایک ڈائیلاگ باکس کھولتا ہے جو آپ کو شخصیت کا انتخاب کرنے دیتا ہے۔"
+
+#: main_15.cpp:86
+msgid "for the engine.  For more details, click on < Rated game > < Help > < Rodent >"
+msgstr "انجن کے لئے.  مزید تفصیلات کے لیے، <Rated game> < Help > < Rodent > پر کلک کریں۔"
